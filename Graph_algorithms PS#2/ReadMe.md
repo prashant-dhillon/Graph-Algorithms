@@ -1,4 +1,8 @@
-ReadME
+# MorphoGraph and Imagery - Practical session
+
+Answers of the respective Problems from 'MorphoGraphPS2_ProblemDesc.pdf'
+
+PINK Graph and Morphology library (developed by ESIEE research) used in the project. For reference and Installation please refer https://perso.esiee.fr/~coupriem/Pink/doc/html/
 
 Executable Files Info:
 For question 2:
