@@ -1,6 +1,6 @@
 # Graph-Algorithms 
 
-#### This Repo contains the Problems and solutions using Graphs and Morphology. 
+#### This Repo contain the Problems and solutions using Graphs and Morphology. 
 
 This work was done during following of Graph & Morphology course.
 
