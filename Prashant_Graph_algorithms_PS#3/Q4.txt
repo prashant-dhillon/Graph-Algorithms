@@ -1,0 +1,9 @@
+Question 4. Improving the estimation of the time of the journey
+
+for this there are two proposed methods:
+1) by modifying the network: we can modify the metro graph network by addind the weight of 20 seconds to each weight between two stations.
+                                But it is not my preferred solution because if wait time increases we have to modify the entire network each time.
+
+2) by modifying the algorithm: we can also include the wait time on each station by modifyting the algorithm, as in the Dijkstra algorithm
+                                we can add this wait time in g->v_sommet field every time we move from one vertex to another after calculation
+                                of shortest path i.e, in our case here g->v_sommets[v_count_succ] = g->v_sommets[v_count] + p->v_arc + waitTime

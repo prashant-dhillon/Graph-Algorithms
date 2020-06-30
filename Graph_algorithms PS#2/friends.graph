@@ -1,0 +1,17 @@
+7 7
+noms sommets
+0 Racheal
+1 Ross
+2 Joe
+3 Phoebe
+4 Chandler
+5 Janice
+6 Monica
+arcs
+0 3
+0 1
+1 2
+2 4
+2 6
+4 5
+5 6
